@@ -1,4 +1,4 @@
-# Customer API Documentation
+# API Documentation
 
 This documentation provides an overview of the Customer API, which is built using the MERN stack (MongoDB, Express.js, React, Node.js). The API provides various endpoints to retrieve and analyze customer data.
 
