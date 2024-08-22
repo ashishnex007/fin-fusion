@@ -31,8 +31,8 @@ The MERN stack is a popular choice for full-stack web development due to its sea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/customer-api.git
-   cd customer-api
+   git clone https://github.com/ashishnex007/fin-fusion.git
+   cd server
    ```
 
 2. Install dependencies:
@@ -45,6 +45,7 @@ The MERN stack is a popular choice for full-stack web development due to its sea
    ```env
    MONGO_URI=mongodb://localhost:27017/new_data
    ```
+   hehe u thought I will give you my Atlas link?
 
 4. Start the server:
    ```bash
